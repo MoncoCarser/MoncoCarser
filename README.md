@@ -1,14 +1,14 @@
 Hi 👋 My name is Pasi Pakkala
 =============================
 
-Full Stack Developer and Designer
+Full Stack Developer and Designer in training
 ---------------------------------
 
-I'm a full-stack developer and designer with expertise in Python, JavaScript, HTML, CSS, React, Node, Next, SQL, AWS, and Figma. I'm passionate about creating elegant, efficient, and user-friendly web applications that solve complex problems. With a keen eye for design and a strong understanding of the latest technologies, I bring a unique perspective to every project I work on.
+I have experience with Python, JavaScript, HTML, CSS. I aim to become a full-stack developer and designer with expertise in  React, Node, Next, SQL, AWS, and Figma. I'm passionate about creating elegant, efficient, and user-friendly web applications that solve complex problems. With a keen eye for design and a strong understanding of the latest technologies, I bring a unique perspective to every project I work on.
 
 *   🌍  I'm based in Kosice, Slovakia
 *   ✉️  You can contact me at [pakkala.digitalcraftsman@gmail.com](mailto:pakkala.digitalcraftsman@gmail.com)
-*   🧠  I'm learning More about JavaScript
+*   🧠  I'm learning more about JavaScript
 
 ### Skills 
 

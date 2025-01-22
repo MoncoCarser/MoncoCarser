@@ -1,27 +1,24 @@
 Hi 👋 My name is Pasi Pakkala
 =============================
 
-Full Stack Developer and Designer in training
+Data Analyst
 ---------------------------------
 
-I have experience with Python, JavaScript, HTML, CSS. I aim to become a full-stack developer and designer with expertise in  React, Node, Next, SQL, AWS, and Figma. I'm passionate about creating elegant, efficient, and user-friendly web applications that solve complex problems. With a keen eye for design and a strong understanding of the latest technologies, I bring a unique perspective to every project I work on.
+I am a Tableau expert specializing in data analysis and visualization, with proficiency in SQL, Excel, and Python. Passionate about crafting intuitive and impactful data visualizations, I thrive on transforming complex problems into actionable insights that drive business improvements. Combining a keen eye for design with a deep understanding of modern technologies, I bring a creative and solution-oriented approach to every project I undertake.
 
 *   🌍  I'm based in Kosice, Slovakia
 *   ✉️  You can contact me at [pakkala.digitalcraftsman@gmail.com](mailto:pakkala.digitalcraftsman@gmail.com)
-*   🧠  I'm learning more about JavaScript
-
+*   🧠  I'm learning more about SQL and Python.
 ### Skills 
 
 <p align="left">
+
+<a href="https://cdnlogo.com/logo/tableau-software_40012.html"><img 
+arget="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/t/73/tableau-software.svg" width="36" height="36" alt="Tableau" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  
-### Skills coming up
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://cdnlogo.com/logo/mysql_9525.html"><img target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" width="40" height="40" alt="MySQL" /></a>
+
 </p>
+
+
